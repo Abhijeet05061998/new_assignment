@@ -14,7 +14,7 @@ So logic Behind this Assignment is calculate the basically Neighbour cells accor
 
 
 STARTING OF PROJECT:-
-i have attached the live link of this project in description of this project so you can go through that link
+i have attached the live link of this project in description of this repository so you can go through that link
 
 
 
